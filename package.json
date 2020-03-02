@@ -1,0 +1,22 @@
+{
+  "name": "szmbj",
+  "version": "0.0.0",
+  "description": null,
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "eject": "react-scripts eject"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "faunadb": "^2.10.0",
+    "telegraf": "^3.34.1"
+  },
+  "devDependencies": {
+    "react-scripts": "1.0.0",
+    "netlify-lambda": "^1.6.3"
+  }
+}
